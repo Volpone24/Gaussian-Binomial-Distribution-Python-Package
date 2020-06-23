@@ -5,6 +5,7 @@ To install this package, go the the directory where you saved it in the command 
 Eg cd C:/User/<Name>/Downloads/Gaussian-Binomial-Distribution-Python-Package
 
 Write the command: pip install .
+
 You successfully installed the package.
 
 To use the package
